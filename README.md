@@ -36,7 +36,7 @@ The generated images are shown in ﬁgure 9, the generated images in each column
 
 Then we explore the latent variables effect on CVAE, by ﬁxing one latent dimension, and change the rest(1 dimension in this experiment, since we used only two hidden dimensions as described in the CVAE architecture). Figure 10 shows the latent variable effect on CVAE, we noticed a clear gradual changing in the patterns of generated digits. For example, the slope of digits change from vertical to more inclined angle (0,1,4,7,8). Moreover, we found that changing the same latent variable can have different effect on different classes: the patterns of (2,5,9) digits change in more diverse way, rather than simply increasing the inclined angle.
 
-4 Conclusion 
+## Conclusion 
 • The quality of reconstructed images increases with hidden dimension,however this rule does not apply to generated images, since there exist an optimal latent dimension for generated images. 
 
 • The learned manifold visualization shows that the generated image can be controlled via latent variable manipulation, for example the incline angle of digits changes with the latent variable certain dimension. 

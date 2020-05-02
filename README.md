@@ -38,17 +38,25 @@ Then we explore the latent variables effect on CVAE, by ﬁxing one latent dimen
 
 4 Conclusion 
 • The quality of reconstructed images increases with hidden dimension,however this rule does not apply to generated images, since there exist an optimal latent dimension for generated images. 
+
 • The learned manifold visualization shows that the generated image can be controlled via latent variable manipulation, for example the incline angle of digits changes with the latent variable certain dimension. 
+
 • When the VAE has shallow CNN as encoder and decoder, increasing the depth of convolutional layers improves performance. 
+
 • Compared to vanilla VAE, CVAE models are able to generate more realistic and diverse samples; same latent dimension has different effect on conditions (labels).
 
 
 ## Appendix1: Figures
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/2.PNG "Optional title")
+
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/3.PNG "Optional title")
+
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/4.PNG "Optional title")
+
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/5.PNG "Optional title")
+
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/6.PNG "Optional title")
+
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/7.PNG "Optional title")
 
 ## Appendix2: References

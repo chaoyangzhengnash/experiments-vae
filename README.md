@@ -49,15 +49,21 @@ Then we explore the latent variables effect on CVAE, by ﬁxing one latent dimen
 ## Appendix1: Figures
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/2.PNG "Optional title")
 
+
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/3.PNG "Optional title")
+
 
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/4.PNG "Optional title")
 
+
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/5.PNG "Optional title")
+
 
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/6.PNG "Optional title")
 
+
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/explore-latent-variables-effects-of-VAE-Conditional-VAE-/master/graphs/7.PNG "Optional title")
+
 
 ## Appendix2: References
 [1] Kingma & Diederik P & Welling, Max (2013) Auto-encoding variational bayes, arXiv preprint arXiv:1312.6114 
